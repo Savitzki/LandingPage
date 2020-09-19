@@ -1,0 +1,17 @@
+{
+    "name": "frontend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "bootstrap": "^4.5.2",
+        "bootstrap-icons": "^1.0.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "sass": "node-sass --watch css/style.scss css/style.css",
+        "sass-min": "node-sass --watch css/style.scss css/style.min.css --output-style compressed"
+    },
+    "author": "Marina Savitzki",
+    "license": "ISC"
+}
