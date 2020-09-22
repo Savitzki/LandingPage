@@ -1,4 +1,4 @@
-# Landing page - desafio
+# Landing page - desafio (Em adaptação)
 
 # Descrição
 Este projeto é uma Landing Page para captura de leads, um formulário simples e intuitivo para o usuário se inscrever e receber newsletters do site.
